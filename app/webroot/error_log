@@ -1,0 +1,6 @@
+[17-Oct-2024 13:24:34 Asia/Hong_Kong] PHP Fatal error:  Declaration of CakeRequest::offsetExists(mixed $name): bool must be compatible with ArrayAccess::offsetExists($offset) in /home/rhzuusmi/public_html/lib/Cake/Network/CakeRequest.php on line 35
+[17-Oct-2024 13:58:21 Asia/Hong_Kong] PHP Parse error:  syntax error, unexpected token "class", expecting "function" or "const" in /home/rhzuusmi/public_html/app/Controller/AppController.php on line 552
+[17-Oct-2024 13:58:27 Asia/Hong_Kong] PHP Parse error:  syntax error, unexpected token "class", expecting "function" or "const" in /home/rhzuusmi/public_html/app/Controller/AppController.php on line 552
+[17-Oct-2024 13:59:14 Asia/Hong_Kong] PHP Parse error:  Unclosed '{' on line 33 in /home/rhzuusmi/public_html/app/Controller/AppController.php on line 601
+[17-Oct-2024 14:05:17 Asia/Hong_Kong] PHP Parse error:  Unclosed '{' on line 33 in /home/rhzuusmi/public_html/app/Controller/AppController.php on line 607
+[17-Oct-2024 14:05:49 Asia/Hong_Kong] PHP Parse error:  Unclosed '{' on line 33 in /home/rhzuusmi/public_html/app/Controller/AppController.php on line 608

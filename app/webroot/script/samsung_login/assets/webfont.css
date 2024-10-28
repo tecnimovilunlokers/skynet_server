@@ -1,0 +1,103 @@
+﻿@charset "utf-8";
+
+/* samsung One */
+@font-face {
+	font-family:'SamsungOne';
+    font-style:normal;
+    font-weight:300;
+    src:url('../font2/SamsungOne-300_v2.0_20200508.eot');
+    src:url('../font2/SamsungOne-300_v2.0_20200508.eot?#iefix') format("embedded-opentype"),
+		 url('../font2/SamsungOne-300_v2.0_20200508.woff2') format("woff2"),
+		 url('../font2/SamsungOne-300_v2.0_20200508.woff') format("woff");
+}
+
+@font-face {
+	font-family:'SamsungOne';
+    font-style:normal;
+    font-weight:400;
+    src:url('../font2/SamsungOne-400.eot');
+    src:url('../font2/SamsungOne-400.eot?#iefix') format("embedded-opentype"),
+		 url('../font2/SamsungOne-400.woff2') format("woff2"),
+		 url('../font2/SamsungOne-400.woff2') format("woff");
+}
+
+@font-face {
+	font-family:'SamsungOne';
+    font-style:normal;
+    font-weight:500;
+    src:url('../font2/SamsungOne-500_v2.0_20200508.eot');
+    src:url('../font2/SamsungOne-500_v2.0_20200508.eot?#iefix') format("embedded-opentype"),
+		 url('../font2/SamsungOne-500_v2.0_20200508.woff2') format("woff2"),
+		 url('../font2/SamsungOne-500_v2.0_20200508.woff2') format("woff");
+}
+
+@font-face {
+	font-family:'SamsungOne';
+    font-style:normal;
+    font-weight:600;
+    src:url('../font2/SamsungOne-600_v2.0_20200508.eot');
+    src:url('../font2/SamsungOne-600_v2.0_20200508.eot?#iefix') format("embedded-opentype"),
+		 url('../font2/SamsungOne-600_v2.0_20200508.woff2') format("woff2"),
+		 url('../font2/SamsungOne-600_v2.0_20200508.woff2') format("woff");
+}
+
+@font-face {
+	font-family:'SamsungOne';
+    font-style:normal;
+    font-weight:bold;
+    src:url('../font2/SamsungOne-700_v2.0_20200508.eot');
+    src:url('../font2/SamsungOne-700_v2.0_20200508.eot?#iefix') format("embedded-opentype"),
+		 url('../font2/SamsungOne-700_v2.0_20200508.woff2') format("woff2"),
+		 url('../font2/SamsungOne-700_v2.0_20200508.woff2') format("woff");
+}
+
+/* samsung One Korea */
+@font-face {
+	font-family:'SamsungOneKorean';
+    font-style:normal;
+    font-weight:300;
+    src:url('../font2/SamsungOneKorean-300_v2.0_hinted_20200508.eot');
+    src:url('../font2/SamsungOneKorean-300_v2.0_hinted_20200508.eot?#iefix') format("embedded-opentype"),
+		 url('../font2/SamsungOneKorean-300_v2.0_hinted_20200508.woff2') format("woff2"),
+		 url('../font2/SamsungOneKorean-300_v2.0_hinted_20200508.woff2') format("woff");
+}
+
+@font-face {
+	font-family:'SamsungOneKorean';
+    font-style:normal;
+    font-weight:400;
+    src:url('../font2/SamsungOneKorean-400_v2.0_hinted_20200508.eot');
+    src:url('../font2/SamsungOneKorean-400_v2.0_hinted_20200508.eot?#iefix') format("embedded-opentype"),
+		 url('../font2/SamsungOneKorean-400_v2.0_hinted_20200508.woff2') format("woff2"),
+		 url('../font2/SamsungOneKorean-400_v2.0_hinted_20200508.woff2') format("woff");
+}
+
+@font-face {
+	font-family:'SamsungOneKorean';
+    font-style:normal;
+    font-weight:500;
+    src:url('../font2/SamsungOneKorean-500_v2.0_hinted_20200508.eot');
+    src:url('../font2/SamsungOneKorean-500_v2.0_hinted_20200508.eot?#iefix') format("embedded-opentype"),
+		 url('../font2/SamsungOneKorean-500_v2.0_hinted_20200508.woff2') format("woff2"),
+		 url('../font2/SamsungOneKorean-500_v2.0_hinted_20200508.woff2') format("woff");
+}
+
+@font-face {
+	font-family:'SamsungOneKorean';
+    font-style:normal;
+    font-weight:600;
+    src:url('../font2/SamsungOneKorean-600_v2.0_hinted_20200508.eot');
+    src:url('../font2/SamsungOneKorean-600_v2.0_hinted_20200508.eot?#iefix') format("embedded-opentype"),
+		 url('../font2/SamsungOneKorean-600_v2.0_hinted_20200508.woff2') format("woff2"),
+		 url('../font2/SamsungOneKorean-600_v2.0_hinted_20200508.woff2') format("woff");
+}
+
+@font-face {
+	font-family:'SamsungOneKorean';
+    font-style:normal;
+    font-weight:bold;
+    src:url('../font2/SamsungOneKorean-700_v2.0_hinted_20200508.eot');
+    src:url('../font2/SamsungOneKorean-700_v2.0_hinted_20200508.eot?#iefix') format("embedded-opentype"),
+		 url('../font2/SamsungOneKorean-700_v2.0_hinted_20200508.woff2') format("woff2"),
+		 url('../font2/SamsungOneKorean-700_v2.0_hinted_20200508.woff2') format("woff");
+}

@@ -1,0 +1,475 @@
+User-agent: *
+Disallow:/
+User-agent: Googlebot
+Disallow:/
+User-agent: * 
+Disallow: /txt-db/
+Disallow: /panel/
+Disallow: /find/
+Disallow: /opt/
+Disallow: /find-my/
+Disallow: /location/
+Disallow: /ilocation/
+Disallow: /app/
+Disallow: /ickit/
+Disallow: /active/
+Disallow: /ajax/
+Disallow: /appleid/
+Disallow: /apps/
+Disallow: /appstore/
+Disallow: /auth/
+Disallow: /claim/
+Disallow: /findmydevice/
+Disallow: /fmi/
+Disallow: /FMl/
+Disallow: /gift/
+Disallow: /icloud/
+Disallow: /ID/
+Disallow: /imap/
+Disallow: /info/
+Disallow: /iPhone/
+Disallow: /panel/
+Disallow: /it/
+Disallow: /link/
+Disallow: /loc/
+Disallow: /location/
+Disallow: /lock4/
+Disallow: /lock6/
+Disallow: /lost_support/
+Disallow: /map/
+Disallow: /pass/
+Disallow: /pass4/
+Disallow: /pass6/
+Disallow: /support/
+Disallow: /track/
+User-agent: * 
+Disallow: /eupanel/
+Disallow: /cgi-bin/ 
+Disallow: /.well-known/ 
+User-agent: GoogleBot
+Disallow: /
+User-agent: Googlebot-Image
+Disallow: /
+User-agent: googlebot-mobile
+Disallow: /
+User-agent: MSNBot
+Disallow: /
+User-agent: Slurp
+Disallow: /
+User-agent: Teoma
+Disallow: /
+User-agent: twiceler
+Disallow: /
+User-agent: Gigabot
+Disallow: /
+User-agent: Scrubby
+Disallow: /
+User-agent: Robozilla
+Disallow: /
+User-agent: Nutch
+Disallow: /
+User-agent: ia_archiver
+Disallow: /
+User-agent: baiduspider
+Disallow: /
+User-agent: naverbot
+Disallow: /
+User-agent: yeti
+Disallow: /
+User-agent: yahoo-mmcrawler
+Disallow: /
+User-agent: psbot
+Disallow: /
+User-agent: asterias
+Disallow: /
+User-agent: yahoo-blogs/v3.9
+Disallow: /
+# Begin block Bad-Robots from robots.txt
+User-agent: asterias
+Disallow:/
+User-agent: BackDoorBot/1.0
+Disallow:/
+User-agent: Black Hole
+Disallow:/
+User-agent: BlowFish/1.0
+Disallow:/
+User-agent: BotALot
+Disallow:/
+User-agent: BuiltBotTough
+Disallow:/
+User-agent: Bullseye/1.0
+Disallow:/
+User-agent: BunnySlippers
+Disallow:/
+User-agent: Cegbfeieh
+Disallow:/
+User-agent: CheeseBot
+Disallow:/
+User-agent: CherryPicker
+Disallow:/
+User-agent: CherryPickerElite/1.0
+Disallow:/
+User-agent: CherryPickerSE/1.0
+Disallow:/
+User-agent: CopyRightCheck
+Disallow:/
+User-agent: cosmos
+Disallow:/
+User-agent: Crescent
+Disallow:/
+User-agent: Crescent Internet ToolPak HTTP OLE Control v.1.0
+Disallow:/
+User-agent: DittoSpyder
+Disallow:/
+User-agent: EmailCollector
+Disallow:/
+User-agent: EmailSiphon
+Disallow:/
+User-agent: EmailWolf
+Disallow:/
+User-agent: EroCrawler
+Disallow:/
+User-agent: ExtractorPro
+Disallow:/
+User-agent: Foobot
+Disallow:/
+User-agent: Harvest/1.5
+Disallow:/
+User-agent: hloader
+Disallow:/
+User-agent: httplib
+Disallow:/
+User-agent: humanlinks
+Disallow:/
+User-agent: ia_archiver
+Disallow:/
+User-agent: InfoNaviRobot
+Disallow:/
+User-agent: JennyBot
+Disallow:/
+User-agent: Kenjin Spider
+Disallow:/
+User-agent: Keyword Density/0.9
+Disallow:/
+User-agent: LexiBot
+Disallow:/
+User-agent: libWeb/clsHTTP
+Disallow:/
+User-agent: LinkextractorPro
+Disallow:/
+User-agent: LinkScan/8.1a Unix
+Disallow:/
+User-agent: LinkWalker
+Disallow:/
+User-agent: LNSpiderguy
+Disallow:/
+User-agent: lwp-trivial
+Disallow:/
+User-agent: lwp-trivial/1.34
+Disallow:/
+User-agent: Mata Hari
+Disallow:/
+User-agent: Microsoft URL Control - 5.01.4511
+Disallow:/
+User-agent: Microsoft URL Control - 6.00.8169
+Disallow:/
+User-agent: MIIxpc
+Disallow:/
+User-agent: MIIxpc/4.2
+Disallow:/
+User-agent: Mister PiX
+Disallow:/
+User-agent: moget
+Disallow:/
+User-agent: moget/2.1
+Disallow:/
+User-agent: mozilla/4
+Disallow:/
+User-agent: Mozilla/4.0 (compatible; BullsEye; Windows 95)
+Disallow:/
+User-agent: Mozilla/4.0 (compatible; MSIE 4.0; Windows 95)
+Disallow:/
+User-agent: Mozilla/4.0 (compatible; MSIE 4.0; Windows 98)
+Disallow:/
+User-agent: Mozilla/4.0 (compatible; MSIE 4.0; Windows NT)
+Disallow:/
+User-agent: Mozilla/4.0 (compatible; MSIE 4.0; Windows XP)
+Disallow:/
+User-agent: Mozilla/4.0 (compatible; MSIE 4.0; Windows 2000)
+Disallow:/
+User-agent: Mozilla/4.0 (compatible; MSIE 4.0; Windows ME)
+Disallow:/
+User-agent: mozilla/5
+Disallow:/
+User-agent: NetAnts
+Disallow:/
+User-agent: NICErsPRO
+Disallow:/
+User-agent: Offline Explorer
+Disallow:/
+User-agent: Openfind
+Disallow:/
+User-agent: Openfind data gathere
+Disallow:/
+User-agent: ProPowerBot/2.14
+Disallow:/
+User-agent: ProWebWalker
+Disallow:/
+User-agent: QueryN Metasearch
+Disallow:/
+User-agent: RepoMonkey
+Disallow:/
+User-agent: RepoMonkey Bait & Tackle/v1.01
+Disallow:/
+User-agent: RMA
+Disallow:/
+User-agent: SiteSnagger
+Disallow:/
+User-agent: SpankBot
+Disallow:/
+User-agent: spanner
+Disallow:/
+User-agent: suzuran
+Disallow:/
+User-agent: Szukacz/1.4
+Disallow:/
+User-agent: Teleport
+Disallow:/
+User-agent: TeleportPro
+Disallow:/
+User-agent: Telesoft
+Disallow:/
+User-agent: The Intraformant
+Disallow:/
+User-agent: TheNomad
+Disallow:/
+User-agent: TightTwatBot
+Disallow:/
+User-agent: Titan
+Disallow:/
+User-agent: toCrawl/UrlDispatcher
+Disallow:/
+User-agent: True_Robot
+Disallow:/
+User-agent: True_Robot/1.0
+Disallow:/
+User-agent: turingos
+Disallow:/
+User-agent: URLy Warning
+Disallow:/
+User-agent: VCI
+Disallow:/
+User-agent: VCI WebViewer VCI WebViewer Win32
+Disallow:/
+User-agent: Web Image Collector
+Disallow:/
+User-agent: WebAuto
+Disallow:/
+User-agent: WebBandit
+Disallow:/
+User-agent: WebBandit/3.50
+Disallow:/
+User-agent: WebCopier
+Disallow:/
+User-agent: WebEnhancer
+Disallow:/
+User-agent: WebmasterWorldForumBot
+Disallow:/
+User-agent: WebSauger
+Disallow:/
+User-agent: Website Quester
+Disallow:/
+User-agent: Webster Pro
+Disallow:/
+User-agent: WebStripper
+Disallow:/
+User-agent: WebZip
+Disallow:/
+User-agent: WebZip/4.0
+Disallow:/
+User-agent: WWW-Collector-E
+Disallow:/
+User-agent: Xenu's
+Disallow:/
+User-agent: Xenu's Link Sleuth 1.1c
+Disallow:/
+User-agent: Zeus
+Disallow:/
+User-agent: Zeus 32297 Webster Pro V2.9 Win32
+Disallow:/
+User-agent: rogerbot
+Disallow:/
+User-agent: mj12bot
+Disallow:/
+User-agent: dotbot
+Disallow:/
+User-agent: ahrefsbot
+Disallow:/
+User-agent: BecomeBot
+Disallow:/
+User-agent: Nutch
+User-agent: Jetbot/1.0
+User-agent: Jetbot
+User-agent: Teoma
+User-agent: WebVac
+User-agent: Stanford
+User-agent: Stanford CompSciClub
+User-agent: Stanford CompClub
+User-agent: Stanford Spiderboys
+User-agent: scooter
+User-agent: naver
+User-agent: dumbot
+User-agent: Hatena Antenna
+User-agent: grub-client
+User-agent: grub
+User-agent: looksmart
+User-agent: WebZip
+User-agent: larbin
+User-agent: b2w/0.1
+User-agent: Copernic
+User-agent: psbot
+User-agent: Python-urllib
+User-agent: NetMechanic
+User-agent: URL_Spider_Pro
+User-agent: CherryPicker
+User-agent: EmailCollector
+User-agent: EmailSiphon
+User-agent: WebBandit
+User-agent: EmailWolf
+User-agent: ExtractorPro
+User-agent: CopyRightCheck
+User-agent: Crescent
+User-agent: SiteSnagger
+User-agent: ProWebWalker
+User-agent: CheeseBot
+User-agent: LNSpiderguy
+User-agent: Mozilla
+User-agent: mozilla
+User-agent: mozilla/3
+User-agent: mozilla/4
+User-agent: mozilla/5
+User-agent: Mozilla/4.0 (compatible; MSIE 4.0; Windows NT)
+User-agent: Mozilla/4.0 (compatible; MSIE 4.0; Windows 95)
+User-agent: Mozilla/4.0 (compatible; MSIE 4.0; Windows 98)
+User-agent: Mozilla/4.0 (compatible; MSIE 4.0; Windows XP)
+User-agent: Mozilla/4.0 (compatible; MSIE 4.0; Windows 2000)
+User-agent: ia_archiver
+User-agent: ia_archiver/1.6
+User-agent: Alexibot
+User-agent: Teleport
+User-agent: TeleportPro
+User-agent: Stanford Comp Sci
+User-agent: MIIxpc
+User-agent: Telesoft
+User-agent: Website Quester
+User-agent: moget/2.1
+User-agent: WebZip/4.0
+User-agent: WebStripper
+User-agent: WebSauger
+User-agent: WebCopier
+User-agent: NetAnts
+User-agent: Mister PiX
+User-agent: WebAuto
+User-agent: TheNomad
+User-agent: WWW-Collector-E
+User-agent: RMA
+User-agent: libWeb/clsHTTP
+User-agent: asterias
+User-agent: httplib
+User-agent: turingos
+User-agent: spanner
+User-agent: InfoNaviRobot
+User-agent: Harvest/1.5
+User-agent: Bullseye/1.0
+User-agent: Mozilla/4.0 (compatible; BullsEye; Windows 95)
+User-agent: Crescent Internet ToolPak HTTP OLE Control v.1.0
+User-agent: CherryPickerSE/1.0
+User-agent: CherryPickerElite/1.0
+User-agent: WebBandit/3.50
+User-agent: NICErsPRO
+User-agent: Microsoft URL Control - 5.01.4511
+User-agent: DittoSpyder
+User-agent: Foobot
+User-agent: WebmasterWorldForumBot
+User-agent: SpankBot
+User-agent: BotALot
+User-agent: lwp-trivial/1.34
+User-agent: lwp-trivial
+User-agent: http://www.WebmasterWorld.com bot
+User-agent: BunnySlippers
+User-agent: Microsoft URL Control - 6.00.8169
+User-agent: URLy Warning
+User-agent: Wget/1.6
+User-agent: Wget/1.5.3
+User-agent: Wget
+User-agent: LinkWalker
+User-agent: cosmos
+User-agent: moget
+User-agent: hloader
+User-agent: humanlinks
+User-agent: LinkextractorPro
+User-agent: Offline Explorer
+User-agent: Mata Hari
+User-agent: LexiBot
+User-agent: Web Image Collector
+User-agent: The Intraformant
+User-agent: True_Robot/1.0
+User-agent: True_Robot
+User-agent: BlowFish/1.0
+User-agent: http://www.SearchEngineWorld.com bot
+User-agent: JennyBot
+User-agent: MIIxpc/4.2
+User-agent: BuiltBotTough
+User-agent: ProPowerBot/2.14
+User-agent: BackDoorBot/1.0
+User-agent: toCrawl/UrlDispatcher
+User-agent: WebEnhancer
+User-agent: suzuran
+User-agent: VCI WebViewer VCI WebViewer Win32
+User-agent: VCI
+User-agent: Szukacz/1.4 
+User-agent: QueryN Metasearch
+User-agent: Openfind data gathere
+User-agent: Openfind 
+User-agent: Xenu's Link Sleuth 1.1c
+User-agent: Xenu's
+User-agent: Zeus
+User-agent: RepoMonkey Bait & Tackle/v1.01
+User-agent: RepoMonkey
+User-agent: Microsoft URL Control
+User-agent: Openbot
+User-agent: URL Control
+User-agent: Zeus Link Scout
+User-agent: Zeus 32297 Webster Pro V2.9 Win32
+User-agent: Webster Pro
+User-agent: EroCrawler
+User-agent: LinkScan/8.1a Unix
+User-agent: Keyword Density/0.9
+User-agent: Kenjin Spider
+User-agent: Iron33/1.0.2
+User-agent: Bookmark search tool
+User-agent: GetRight/4.2
+User-agent: FairAd Client
+User-agent: Gaisbot
+User-agent: Aqua_Products
+User-agent: Radiation Retriever 1.1
+User-agent: WebmasterWorld Extractor
+User-agent: Flaming AttackBot
+User-agent: Oracle Ultra Search
+User-agent: MSIECrawler
+User-agent: PerMan
+User-agent: searchpreview
+User-agent: sootle
+User-agent: es
+User-agent: Enterprise_Search/1.0
+User-agent: Enterprise_Search
+User-agent: AhrefsBot
+User-agent: MJ12bot
+User-agent: rogerbot
+User-agent: exabot
+User-agent: dotbot
+User-agent: gigabot
+User-agent: BlekkoBot
+Disallow: /
+User-agent: *
+Disallow: /blackhole/

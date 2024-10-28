@@ -1,0 +1,103 @@
+.toast-container.toast-top-right{
+	width: unset !important;
+	margin-bottom: unset !important;
+}
+
+.toast{
+	margin-bottom: 5px !important;
+}
+
+.card {
+    margin-bottom: 10px;
+}
+
+.table-responsive {
+    overflow-x: auto !important;
+}
+
+/*
+.select2-dropdown--below {
+    z-index: 99929;
+}
+.select2-close-mask{
+    z-index: 2099;
+}
+.select2-dropdown{
+    z-index: 3051;
+}
+*/
+
+.pagination_container .dataTables_paginate .paginate_button {
+    padding: 6px 12px;
+    border: 1px solid #dfe5ef
+}
+
+.pagination_container .dataTables_paginate .paginate_button .previous {
+    border-radius: 7px 0 0 7px;
+    background-color: #eaeff4
+}
+
+.pagination_container .dataTables_paginate .paginate_button.current {
+    color: #fff;
+    background-color: #5d87ff;
+    border-color: #5d87ff
+}
+
+:root {
+  scroll-behavior: auto !important;
+}
+
+.input-group-right-radius{
+	border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+}
+
+/* .dataTables_scrollBody{ height:500px !important;} */
+
+
+.swal-loader-conatiner{
+  width: 400px;
+}
+
+table td{
+    word-wrap: break-word;
+	white-space: normal;
+}
+
+td:has(.dropdown.dropstart){
+	
+	max-width: 30px !important;
+	min-width: 30px !important;
+	width: 30px !important;
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+	text-align: center!important;
+	/* background-color: red; */
+}
+
+td:has(.n-chk){
+	max-width: 30px !important;
+	min-width: 30px !important;
+	/* padding-left: 0px !important; */
+	padding-right: 0px !important;
+	/* background-color: red; */
+}
+.multiselect_column{
+	max-width: 30px !important;
+	min-width: 30px !important;
+	/* padding-left: 0px !important; */
+	padding-right: 0px !important;
+}
+
+
+/* Experemental */
+.table-responsive .dropdown {
+        position: static !important;
+    }
+}
+
+@media (min-width: 768px) {
+    .table-responsive {
+        overflow-x: visible;
+    }
+}

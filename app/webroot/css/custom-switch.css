@@ -1,0 +1,19 @@
+.toggle-switchArea { margin: 10px 0 10px 0; }
+.switchToggleYesNo input[type=checkbox]{height: 0; width: 0; visibility: hidden; position: absolute; }
+.switchToggleYesNo label {cursor: pointer; text-indent: -9999px; width: 70px; max-width: 70px; height: 30px; --bs-bg-opacity: 1;background-color: rgba(var(--bs-danger-rgb),var(--bs-bg-opacity)); display: block; border-radius: 100px; position: relative; }
+.switchToggleYesNo label:after {content: ''; position: absolute; top: 2px; left: 2px; width: 26px; height: 26px; background: #fff; border-radius: 90px; transition: 0.3s; }
+.switchToggleYesNo input:checked + label, .switchToggleYesNo input:checked + input + label  {background: #3e98d3; }
+.switchToggleYesNo input + label:before, .switchToggleYesNo input + input + label:before {content: 'No'; position: absolute; top: 5px; left: 35px; width: 26px; height: 26px; border-radius: 90px; transition: 0.3s; text-indent: 0; color: #fff; }
+.switchToggleYesNo input:checked + label:before, .switchToggleYesNo input:checked + input + label:before {content: 'Yes'; position: absolute; top: 5px; left: 10px; width: 26px; height: 26px; border-radius: 90px; transition: 0.3s; text-indent: 0; color: #fff; }
+.switchToggleYesNo input:checked + label:after, .switchToggleYesNo input:checked + input + label:after {left: calc(100% - 2px); transform: translateX(-100%); }
+.switchToggleYesNo label:active:after {width: 60px; } 
+
+
+.switchToggleStatus input[type=checkbox]{height: 0; width: 0; visibility: hidden; position: absolute; }
+.switchToggleStatus label {cursor: pointer; text-indent: -9999px; max-width: 110px; height: 30px; --bs-bg-opacity: 1;background-color: rgba(var(--bs-danger-rgb),var(--bs-bg-opacity)); display: block; border-radius: 100px; position: relative; }
+.switchToggleStatus label:after {content: ''; position: absolute; top: 2px; left: 2px; width: 26px; height: 26px; background: #fff; border-radius: 90px; transition: 0.3s; }
+.switchToggleStatus input:checked + label, .switchToggleStatus input:checked + input + label  {background: #3e98d3; }
+.switchToggleStatus input + label:before, .switchToggleStatus input + input + label:before {content: 'Disabled'; position: absolute; top: 5px; left: 35px;  height: 26px; border-radius: 90px; transition: 0.3s; text-indent: 0; color: #fff; }
+.switchToggleStatus input:checked + label:before, .switchToggleStatus input:checked + input + label:before {content: 'Active'; position: absolute; top: 5px; left: 10px;  height: 26px; border-radius: 90px; transition: 0.3s; text-indent: 0; color: #fff; }
+.switchToggleStatus input:checked + label:after, .switchToggleStatus input:checked + input + label:after {left: calc(100% - 2px); transform: translateX(-100%); }
+.switchToggleStatus label:active:after {width: 60px; } 

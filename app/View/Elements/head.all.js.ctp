@@ -1,0 +1,26 @@
+<?php 
+	echo $this->Html->script(array(
+			'../template/libs/jquery/dist/jquery.min',
+			'../template/libs/simplebar/dist/simplebar.min',
+			'../template/libs/bootstrap/dist/js/bootstrap.bundle.min',
+			'../template/js/app.min',
+			'../template/js/app.init',
+			'../template/js/app-style-switcher',
+			'../template/js/sidebarmenu',
+			'../template/js/plugins/toastr-init',
+			'../template/libs/prismjs/prism',
+			'../template/libs/select2/dist/js/select2.full.min',
+			'../template/libs/select2/dist/js/select2.min',
+			'../template/libs/datatables.net/js/jquery.dataTables.min',
+			'../template/libs/datatables.net/js/dataTables.scroller.min',
+			// '../template/libs/datatables.net/js/dataTables.keyTable.min',
+			'../template/libs/bootstrap-material-datetimepicker/node_modules/moment/moment.js',
+			'../template/libs/daterangepicker/daterangepicker.js',
+			'../template/libs/summernote/dist/summernote-bs4.min',
+			'../template/libs/sweetalert2/dist/sweetalert2.min',
+			'../template/libs/intl-tel-input/js/intlTelInput-jquery.min',
+			'../template/libs/intl-tel-input/js/utils',
+			'../js/legacy.js',
+			'../js/global_inputs.js',
+	));
+?>
